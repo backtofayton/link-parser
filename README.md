@@ -2,7 +2,7 @@
 
 Parse the links from given set if URLs.
 
-!()[./animation.gif]
+![](./animation.gif)
 
 ## Built With
 
