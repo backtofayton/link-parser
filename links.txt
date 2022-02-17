@@ -25,8 +25,8 @@ https://developers.google.com/analytics/devguides/collection/analyticsjs/
 https://tinyhabits.com/wp-includes/css/dist/block-library/style.min.css?ver=5.9' 
 https://tinyhabits.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/css/wpautoterms_css.min.css?ver=5.9' 
 https://tinyhabits.com/wp-content/uploads/bb-plugin/cache/fl-builder-layout-224.min.css?ver=50d44713b6f63542e5ab7c6a3700308e' 
-https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info.min.css?ver=2.0.9' 
-https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.min.css?ver=2.0.9' 
+https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info.min.css?ver=2.1.0' 
+https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.min.css?ver=2.1.0' 
 https://tinyhabits.com/wp-content/plugins/bb-plugin//fonts/fontawesome/5.15.4/css/all.min.css?ver=2.5.2.1' 
 https://tinyhabits.com/wp-content/plugins/bb-plugin/css/jquery.magnificpopup.min.css?ver=2.5.2.1' 
 https://tinyhabits.com/wp-content/themes/bb-theme/css/base-4.min.css?ver=1.7.10' 
@@ -39,7 +39,7 @@ https://tinyhabits.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0'
 https://tinyhabits.com/wp-includes/js/dist/dom-ready.min.js?ver=ecda74de0221e1c2ce5c57cbb5af09d5' 
 https://tinyhabits.com/wp-content/plugins/auto-terms-of-service-and-privacy-policy/js/base.js?ver=2.4.9' 
 https://tinyhabits.com/wp-content/plugins/google-analytics-dashboard-for-wp/assets/js/frontend-gtag.min.js?ver=7.3.4' 
-https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.0.9' 
+https://tinyhabits.com/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.1.0' 
 https://www.googletagmanager.com/gtag/js?id=UA-145363657-1' 
 https://tinyhabits.com/wp-includes/js/imagesloaded.min.js?ver=5.9' 
 https://api.w.org/
@@ -91,14 +91,6 @@ https://schema.org/WPFooter
 http://www.facebook.com/tinyhabits
 http://www.twitter.com/bjfogg
 https://instagram.com/bjfogg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
-http://www.w3.org/2000/svg
 https://tinyhabits.com/wp-content/uploads/bb-plugin/cache/224-layout.js?ver=fb46a8f37e5b9910ab514c54d28992e9' 
 https://tinyhabits.com/wp-content/plugins/bb-plugin/js/jquery.ba-throttle-debounce.min.js?ver=2.5.2.1' 
 https://tinyhabits.com/wp-content/plugins/bb-plugin/js/jquery.magnificpopup.min.js?ver=2.5.2.1' 
