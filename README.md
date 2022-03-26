@@ -1,4 +1,4 @@
-# URL parser
+# URL Crawler
 
 Parse the links from given set if URLs.
 
